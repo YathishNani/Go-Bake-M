@@ -1,0 +1,59 @@
+body{ /*document background*/
+    background-image:  url("C:/Users/Yathish nanaiah/go/image/pexels-klaus-nielsen-6294381.jpg") ;
+    background-size: 400px,1400px;
+    font-family: "Nunito", sans-serif;
+    background: #F15F79;
+}
+
+#mainNavbar .navbar-brand{ /*navbar*/
+    color:#F15F79;
+    font-size:1.5rem;
+    font-weight: bold;
+    
+    
+
+
+}
+
+.flex-container{
+    display: flex;
+    justify-content: end;
+    
+}
+
+/* div.hide #mainNavbar{
+    /* background: whitesmoke !important; 
+    align-self: center !important;
+} */
+
+
+
+.img {
+  
+    background: url("C:/Users/Yathish nanaiah/go/image/White_Black_Monogram_M_Business_Logo_-removebg-preview1.png");
+    background-size: 220px, 250px;
+    background-position: left;
+}
+.img:hover {
+    background: url("C:/Users/Yathish nanaiah/go/image/logo-removebg-preview.png");
+    background-size: 220px,250px;
+    background-position: left;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

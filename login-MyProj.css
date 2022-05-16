@@ -1,0 +1,55 @@
+
+.column{
+    justify-content: center;
+    align-items: center; 
+}  
+
+.card-content{
+    background-color: white;
+    background-size: 100%;
+    
+
+}
+.card{
+    /*background-image: linear-gradient(rgb(251, 0, 255), rgb(255, 92, 4));*/
+    
+    font-family:  serif; 
+    border: 2px solid black;
+    height: 500px;
+    width: 600px;
+    /* padding:150px; */
+    align-items: center;
+    background-image: url("C:/Users/Yathish nanaiah/go/image/pexels-mariana-kurnyk-1756061.jpg"); 
+    background-size: 600px 600px;
+    background-position: end;
+} 
+
+.section{
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+    width: 400px;
+    padding:110px 450px;
+  
+
+}
+.card-image{
+    justify-content: center;
+    align-items: center;
+}
+
+.flex-container{
+    justify-content: flex-start;
+    align-items: flex-start;
+
+}
+
+.card-header{
+    background-image: url("C:/Users/Yathish nanaiah/go/image/logo-removebg-preview.png");
+    background-size: 110px 60px;
+    height: 60px;
+    width: 90px;
+    background-position: bottom;
+   
+    
+}
